@@ -15,9 +15,9 @@ The most common datasets used for machine translation are from [WMT](http://www.
 2. Add padding to make all the sequences the same length.
 
 ## Models
-- Model 1 is a simple RNN - `77.10% Accuracy`
-- Model 2 is a RNN with Embedding - `93.07%` Accuracy
-- Model 3 is a Bidirectional RNN - `76.16%` Accuracy
-- Model 4 is an Encoder-Decoder RNN - `45.39%` Accuracy
-- Model 5 is an Encoder-Decoder Bidirectional RNN with Embedding - `97.28%`
+- Model 1 is a simple RNN - **`77.10% Accuracy`**
+- Model 2 is a RNN with Embedding - **`93.07% Accuracy`**
+- Model 3 is a Bidirectional RNN - **`76.16% Accuracy`**
+- Model 4 is an Encoder-Decoder RNN - **`45.39% Accuracy`**
+- Model 5 is an Encoder-Decoder Bidirectional RNN with Embedding - **`97.28% Accuracy`**
 
